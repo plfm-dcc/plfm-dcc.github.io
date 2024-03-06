@@ -1,0 +1,22 @@
+---
+title: "Research"
+---
+
+## Research Topics
+
+|                                               |                                                                                                                                   |
+|----------------------------|--------------------------------------------|
+| **Programming languages and type systems**    | Gradual types, intersection types, linear types, quantitative types, resource analysis, functional programming, logic programming |
+| **Program testing and analysis**              |                                                                                                                                   |
+| **Program logics and semantics**              |                                                                                                                                   |
+| **Software verification and theorem proving** | Automated program testing, property-based testing                                                                                 |
+| **Automata theory and formal languages**      |                                                                                                                                   |
+| **Security and cryptography**                 |                                                                                                                                   |
+
+## Projects
+
+## Software
+
+## Dissertations
+
+## Publications

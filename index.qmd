@@ -1,0 +1,19 @@
+---
+title: "Formal Methods Group @ DCC-FCUP"
+page-layout: full
+---
+
+We are a research group on TOPIC, at the Department of Computer Science of the Faculty of Sciences in the University of Porto. Our aim is to GOALS. Our research interest include:
+
+- Software verification and theorem proving
+- Program testing and analysis
+- Programming languages and type systems
+- Program logics and semantics
+- Automata theory and formal languages
+- Security and cryptography
+
+## News
+
+## Faculty
+
+## Contact
