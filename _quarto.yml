@@ -6,7 +6,7 @@ website:
   search: false
   navbar:
     title: "PLFM @ DCC"
-    logo: /assets/favicon.png
+    # logo: /assets/logo.png
     logo-alt: PLFM
     background: primary
     tools:
@@ -20,7 +20,7 @@ website:
       - events.qmd
       - news.qmd
     pinned: true
-  favicon: /assets/favicon.png
+  # favicon: /assets/favicon.png
 
 format: 
   html:

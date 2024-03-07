@@ -1,7 +1,35 @@
 ---
-title: "Formal Methods Group @ DCC-FCUP"
+title: | 
+    | Programming Languages
+    | $\cap$ Formal Methods
 page-layout: full
+tbl-colwidths: [0,0,0]
+toc: false
+about:
+  id: about-lab
+  template: trestles
+  image: assets/logo.png
+  image-width: 75%
+listing:
+    id: news-listing
+    contents: news
+    sort: "date desc"
+    type: table
+    filter-ui: false
+    sort-ui: false
+    table-striped: true
+    date-format: MMMM YYYY
+    max-items: 5
+    fields: [date, description]
 ---
+
+::: {.panel-center}
+
+# Programming Languages and Formal Methods @ DCC-FCUP
+
+:::
+
+::: {#about-lab}
 
 We are a research group on TOPIC, at the Department of Computer Science of the Faculty of Sciences in the University of Porto. Our aim is to GOALS. Our research interest include:
 
@@ -9,11 +37,18 @@ We are a research group on TOPIC, at the Department of Computer Science of the F
 - Program testing and analysis
 - Programming languages and type systems
 - Program logics and semantics
-- Automata theory and formal languages
-- Security and cryptography
+<!-- - Automata theory and formal languages
+- Security and cryptography -->
 
-## News
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur et dapibus dui, et gravida sapien. Quisque nec arcu eu ex. 
 
-## Faculty
+:::
 
-## Contact
+### News
+
+::: {#news-listing}
+:::
+
+### Faculty
+
+### Contact
