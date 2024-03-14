@@ -29,4 +29,4 @@ format:
       dark: [cosmo, theme-dark.scss]
     css: styles.css
     toc: true
-    embed-resources: true
+    # embed-resources: true
