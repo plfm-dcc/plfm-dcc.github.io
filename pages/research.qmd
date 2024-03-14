@@ -1,7 +1,6 @@
 ---
 title: "Research"
 page-layout: full
-bibliography: references.bib
 ---
 
 Extented introduction to the group. What are the research objectives of the group. To realize these objectives, our research activity is focused on the following topics:

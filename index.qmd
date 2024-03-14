@@ -2,17 +2,17 @@
 page-layout: full
 tbl-colwidths: [0,0,0]
 toc: false
-# title: Programming Languages & Formal Methods
-title: | 
-    | Programming Languages
-    | & Formal Methods
+title: Programming Languages & Formal Methods
+# title: | 
+#     | Programming Languages
+#     | & Formal Methods
 about:
   id: about-lab
   template: trestles
   image: assets/logo.svg
 listing:
   - id: news-listing
-    contents: news
+    contents: content/news
     sort: "date desc"
     type: table
     filter-ui: false
@@ -22,7 +22,7 @@ listing:
     max-items: 5
     fields: [date, description]
   - id: events-listing
-    contents: events
+    contents: content/events
     sort: "date desc"
     type: table
     filter-ui: false
@@ -52,7 +52,7 @@ Our research interests include:
 - Program logics and semantics
 
 We aim to provide an active and inclusive research environment that includes [ACTIVITIES].
-If you are interested in learning more<!--  about the group and our research -->, come to one of our [meetings](events.qmd), or get in [touch](#contact).
+If you are interested in learning more<!--  about the group and our research -->, come to one of our [meetings](pages/events.qmd), or get in [touch](#contact).
 
 :::  
 <!-- end about -->

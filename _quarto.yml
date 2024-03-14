@@ -1,4 +1,5 @@
 project:
+  title: "PLFM"
   type: website
 
 website:
@@ -13,12 +14,12 @@ website:
       - icon: github
         href: https://github.com
     left:
-      - people.qmd
-      - research.qmd
-      - education.qmd
-      - resources.qmd
-      - events.qmd
-      - news.qmd
+      - pages/people.qmd
+      - pages/research.qmd
+      - pages/education.qmd
+      - pages/resources.qmd
+      - pages/events.qmd
+      - pages/news.qmd
     pinned: true
   # favicon: /assets/favicon.png
 
