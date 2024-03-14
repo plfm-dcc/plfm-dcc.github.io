@@ -1,5 +1,0 @@
----
-title: "Event 2"
-description: "The second step."
-date: "02/01/2024"
----

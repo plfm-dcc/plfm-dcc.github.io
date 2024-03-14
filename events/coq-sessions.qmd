@@ -1,0 +1,6 @@
+---
+title: "Coq Seminar"
+Location: "FC6 0.06"
+description: "Description"
+date: "2024-09-01 15:00"
+---

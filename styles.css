@@ -1,9 +1,10 @@
 /* css styles */
+@import url(https://fonts.googleapis.com/css2?family=Caveat%3Aital%2Cwght%400%2C400..700&amp;display=swap);
 
-.quarto-listing th {
+/* .quarto-listing th {
     display: none;
 }
 
 #listing-news-listing > table > tbody > tr > td:nth-of-type(1) {
     width: 12.5%;
-}
+} */

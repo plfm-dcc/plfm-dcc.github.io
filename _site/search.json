@@ -1,0 +1,135 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Programming Languages\n& Formal Methods",
+    "section": "",
+    "text": "P\n    L\n    F\n    M\n  \n\n\n  \n  \nWe are a research group on [TOPIC] at DCC-FCUP. Our aim is to [GOALS]. Our research interests include:\n\nSoftware verification and theorem proving\nProgram testing and analysis\nProgramming languages and type systems\nProgram logics and semantics\n\nWe aim to provide an active and inclusive research environment that includes [ACTIVITIES]. If you are interested in learning more, come to one of our meetings, or get in touch."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Extented introduction to the group. What are the research objectives of the group. To realize these objectives, our research activity is focused on the following topics:"
+  },
+  {
+    "objectID": "research.html#research-topics",
+    "href": "research.html#research-topics",
+    "title": "Research",
+    "section": "",
+    "text": "Programming languages and type systems\nGradual types, intersection types, linear types, quantitative types, resource analysis, functional programming, logic programming\n\n\nProgram testing and analysis\n\n\n\nProgram logics and semantics\n\n\n\nSoftware verification and theorem proving\nAutomated program testing, property-based testing\n\n\nAutomata theory and formal languages\n\n\n\nSecurity and cryptography"
+  },
+  {
+    "objectID": "research.html#projects",
+    "href": "research.html#projects",
+    "title": "Research",
+    "section": "Projects",
+    "text": "Projects"
+  },
+  {
+    "objectID": "research.html#software",
+    "href": "research.html#software",
+    "title": "Research",
+    "section": "Software",
+    "text": "Software"
+  },
+  {
+    "objectID": "research.html#dissertations",
+    "href": "research.html#dissertations",
+    "title": "Research",
+    "section": "Dissertations",
+    "text": "Dissertations"
+  },
+  {
+    "objectID": "research.html#publications",
+    "href": "research.html#publications",
+    "title": "Research",
+    "section": "Publications",
+    "text": "Publications"
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "News",
+    "section": "",
+    "text": "Same old."
+  },
+  {
+    "objectID": "education.html#prospective-students",
+    "href": "education.html#prospective-students",
+    "title": "Education",
+    "section": "Prospective students",
+    "text": "Prospective students"
+  },
+  {
+    "objectID": "events.html#seminars",
+    "href": "events.html#seminars",
+    "title": "Events",
+    "section": "Seminars",
+    "text": "Seminars"
+  },
+  {
+    "objectID": "people.html#research-associates",
+    "href": "people.html#research-associates",
+    "title": "People",
+    "section": "Research Associates",
+    "text": "Research Associates"
+  },
+  {
+    "objectID": "people.html#students",
+    "href": "people.html#students",
+    "title": "People",
+    "section": "Students",
+    "text": "Students"
+  },
+  {
+    "objectID": "people.html#alumni",
+    "href": "people.html#alumni",
+    "title": "People",
+    "section": "Alumni",
+    "text": "Alumni"
+  },
+  {
+    "objectID": "index.html#recent-news",
+    "href": "index.html#recent-news",
+    "title": "Programming Languages\n& Formal Methods",
+    "section": "Recent news",
+    "text": "Recent news\n\n\n\n\n\nDate\n\n\nDescription\n\n\n\n\n\n\nSeptember 2024\n\n\nPLFM is now open to the public\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#main-faculty",
+    "href": "index.html#main-faculty",
+    "title": "Programming Languages\n& Formal Methods",
+    "section": "Main faculty",
+    "text": "Main faculty"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Programming Languages\n& Formal Methods",
+    "section": "Contact",
+    "text": "Contact\n\n\noffice\nemail\nchat\n\n\nWe are a research group at the Department of Computer Science, which is part of the Faculty of Sciences in the University of Porto."
+  },
+  {
+    "objectID": "index.html#contact-information",
+    "href": "index.html#contact-information",
+    "title": "Programming Languages\n& Formal Methods",
+    "section": "Contact Information",
+    "text": "Contact Information\nemail"
+  },
+  {
+    "objectID": "index.html#upcoming-events",
+    "href": "index.html#upcoming-events",
+    "title": "Programming Languages\n& Formal Methods",
+    "section": "Upcoming events",
+    "text": "Upcoming events\n\n\n\n\n\nDate\n\n\nLocation\n\n\nTitle\n\n\n\n\n\n\nSeptember 1st 15:00\n\n\nFC6 0.06\n\n\nCoq Seminar\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "research.html#programming-languages-and-type-systems",
+    "href": "research.html#programming-languages-and-type-systems",
+    "title": "Research",
+    "section": "Programming languages and type systems",
+    "text": "Programming languages and type systems\nGradual types, intersection types, linear types, quantitative types, resource analysis, functional programming, logic programming"
+  }
+]

@@ -1,8 +1,14 @@
 ---
 title: "Research"
+page-layout: full
+bibliography: references.bib
 ---
 
-## Research Topics
+Extented introduction to the group. What are the research objectives of the group. To realize these objectives, our research activity is focused on the following topics:
+
+-   **Research topic**: description
+-   **Research topic**: description
+-   **Research topic**: description
 
 |                                               |                                                                                                                                   |
 |----------------------------|--------------------------------------------|
@@ -14,8 +20,6 @@ title: "Research"
 | **Security and cryptography**                 |                                                                                                                                   |
 
 ## Projects
-
-## Software
 
 ## Dissertations
 

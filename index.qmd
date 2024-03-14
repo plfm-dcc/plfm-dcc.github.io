@@ -1,17 +1,17 @@
 ---
-title: | 
-    | Programming Languages
-    | $\cap$ Formal Methods
 page-layout: full
 tbl-colwidths: [0,0,0]
 toc: false
+# title: Programming Languages & Formal Methods
+title: | 
+    | Programming Languages
+    | & Formal Methods
 about:
   id: about-lab
   template: trestles
-  image: assets/logo.png
-  image-width: 75%
+  image: assets/logo.svg
 listing:
-    id: news-listing
+  - id: news-listing
     contents: news
     sort: "date desc"
     type: table
@@ -21,34 +21,77 @@ listing:
     date-format: MMMM YYYY
     max-items: 5
     fields: [date, description]
+  - id: events-listing
+    contents: events
+    sort: "date desc"
+    type: table
+    filter-ui: false
+    sort-ui: false
+    table-striped: true
+    date-format: MMMM Do kk:mm
+    max-items: 5
+    fields: [date, Location, title]
+      
 ---
 
-::: {.panel-center}
+<!-- ::: {.panel-center}
 
-# Programming Languages and Formal Methods @ DCC-FCUP
+# Programming Languages & Formal Methods @ DCC-FCUP
 
-:::
+:::  -->
 
 ::: {#about-lab}
 
-We are a research group on TOPIC, at the Department of Computer Science of the Faculty of Sciences in the University of Porto. Our aim is to GOALS. Our research interest include:
+We are a research group on [TOPIC] at [DCC-FCUP](https://www.dcc.fc.up.pt/).
+Our aim is to [GOALS].
+Our research interests include:
 
 - Software verification and theorem proving
 - Program testing and analysis
 - Programming languages and type systems
 - Program logics and semantics
-<!-- - Automata theory and formal languages
-- Security and cryptography -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur et dapibus dui, et gravida sapien. Quisque nec arcu eu ex. 
+We aim to provide an active and inclusive research environment that includes [ACTIVITIES].
+If you are interested in learning more<!--  about the group and our research -->, come to one of our [meetings](events.qmd), or get in [touch](#contact).
 
-:::
+:::  
+<!-- end about -->
 
-### News
-
+::: {.grid}
+::: {.g-col-6}
+## Recent news
 ::: {#news-listing}
 :::
+:::
+::: {.g-col-6}
+## Upcoming events
+::: {#events-listing}
+:::
+:::
+:::
 
-### Faculty
+<!-- ## Main faculty -->
 
-### Contact
+## Contact
+
+::: {.grid}
+
+::: {.g-col-6}
+
+office
+
+email
+
+chat
+
+:::
+  
+::: {.g-col-6}
+
+We are a research group at the Department of Computer Science, which is part of the Faculty of Sciences in the University of Porto.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3004.178618931845!2d-8.643345823442532!3d41.152453610533875!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd2465748665b511%3A0x652241b7e04eb60a!2sFCUP%20Department%20of%20Computer%20Sciences!5e0!3m2!1sen!2spt!4v1710365007122!5m2!1sen!2spt" width="550" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+:::
+  
+::: 
