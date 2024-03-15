@@ -2,6 +2,18 @@
 title: "Education"
 ---
 
-## Courses
+## Courses  
 
-## Prospective students
+Listing of courses taught by members of the group.
+
+## Master Dissertations
+
+Information for prospective students.
+
+Listings of open and ongoing projects.
+
+## Bachelor Projects
+
+Information for prospective students.
+
+Listings of open and ongoing projects.

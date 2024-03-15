@@ -2,4 +2,4 @@
 title: "News"
 ---
 
-Same old.
+Listing of group history.

@@ -17,8 +17,9 @@ website:
       - pages/people.qmd
       - pages/research.qmd
       - pages/education.qmd
-      - pages/resources.qmd
       - pages/events.qmd
+      - pages/resources.qmd
+      - pages/blog.qmd
       - pages/news.qmd
     pinned: true
   # favicon: /assets/favicon.png

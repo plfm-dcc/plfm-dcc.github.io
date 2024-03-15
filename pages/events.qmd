@@ -1,7 +1,33 @@
 ---
-title: "Events"
+title: "Activities"
+page-layout: full
+toc: false
 ---
 
-## Lunch
+## [PLFM Discussion Group](../content/events/weekly.qmd)
 
-## Seminars
+We meet weekly to discuss papers in the areas of programming languages and software verification, and to discuss the group itself.
+The goal is to encourage interactions and discussions between students, researchers, and faculty with interests in these areas.
+Our meetings are open to everybody interested in these topics.
+
+::: {.grid}
+
+::: {.g-col-6}
+
+### Logistics
+
+- We meet on [DAY], [TIME] at [PLACE].
+
+:::
+  
+::: {.g-col-6}
+
+### Coming up
+
+[LISTING]
+
+:::
+  
+::: 
+
+## [Coq Club](../content/events/coqclub.qmd)

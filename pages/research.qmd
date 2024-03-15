@@ -1,25 +1,25 @@
 ---
 title: "Research"
 page-layout: full
+toc: false
 ---
 
-Extented introduction to the group. What are the research objectives of the group. To realize these objectives, our research activity is focused on the following topics:
+Extented introduction to the group.
+What are the research objectives of the group.
+To realize these objectives, our research activity is focused on the following topics:
 
 -   **Research topic**: description
 -   **Research topic**: description
 -   **Research topic**: description
-
-|                                               |                                                                                                                                   |
-|----------------------------|--------------------------------------------|
-| **Programming languages and type systems**    | Gradual types, intersection types, linear types, quantitative types, resource analysis, functional programming, logic programming |
-| **Program testing and analysis**              |                                                                                                                                   |
-| **Program logics and semantics**              |                                                                                                                                   |
-| **Software verification and theorem proving** | Automated program testing, property-based testing                                                                                 |
-| **Automata theory and formal languages**      |                                                                                                                                   |
-| **Security and cryptography**                 |                                                                                                                                   |
 
 ## Projects
 
+Funded projects the group is/was involved in.
+
 ## Dissertations
 
+Dissertations completed by members of the group.
+
 ## Publications
+
+Listing of publications from members of the group.

@@ -1,0 +1,11 @@
+---
+title: "Rodrigo Marques"
+subtitle: "PhD Student"
+# image: 
+image-alt: "RM"
+description: "Types, Semantics, Functional Programming"
+toc: false
+about:
+  id: about
+  template: jolla
+---

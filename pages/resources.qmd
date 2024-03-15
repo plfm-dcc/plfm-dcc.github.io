@@ -1,3 +1,6 @@
 ---
 title: "Resources"
 ---
+
+Aggregation of important information, resources, links, ...
+Not necessarily related to the group
