@@ -1,0 +1,5 @@
+---
+title: "coq-club"
+description: "The club in open - every other Tuesday at 15h"
+date: "20/03/2024"
+---
