@@ -1,0 +1,156 @@
+[
+  {
+    "objectID": "pages/resources.html",
+    "href": "pages/resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Aggregation of important information, resources, links, … Not necessarily related to the group"
+  },
+  {
+    "objectID": "pages/people.html",
+    "href": "pages/people.html",
+    "title": "People",
+    "section": "",
+    "text": "PhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "pages/people.html#faculty",
+    "href": "pages/people.html#faculty",
+    "title": "People",
+    "section": "",
+    "text": "PhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "pages/people.html#research-associates",
+    "href": "pages/people.html#research-associates",
+    "title": "People",
+    "section": "Research Associates",
+    "text": "Research Associates"
+  },
+  {
+    "objectID": "pages/people.html#students",
+    "href": "pages/people.html#students",
+    "title": "People",
+    "section": "Students",
+    "text": "Students"
+  },
+  {
+    "objectID": "pages/people.html#alumni",
+    "href": "pages/people.html#alumni",
+    "title": "People",
+    "section": "Alumni",
+    "text": "Alumni"
+  },
+  {
+    "objectID": "pages/events.html",
+    "href": "pages/events.html",
+    "title": "Activities",
+    "section": "",
+    "text": "We meet weekly to discuss papers in the areas of programming languages and software verification, and to discuss the group itself. The goal is to encourage interactions and discussions between students, researchers, and faculty with interests in these areas. Our meetings are open to everybody interested in these topics.\n\n\n\n\nWe meet on [DAY], [TIME] at [PLACE].\n\n\n\n\n[LISTING]"
+  },
+  {
+    "objectID": "pages/events.html#plfm-discussion-group",
+    "href": "pages/events.html#plfm-discussion-group",
+    "title": "Activities",
+    "section": "",
+    "text": "We meet weekly to discuss papers in the areas of programming languages and software verification, and to discuss the group itself. The goal is to encourage interactions and discussions between students, researchers, and faculty with interests in these areas. Our meetings are open to everybody interested in these topics.\n\n\n\n\nWe meet on [DAY], [TIME] at [PLACE].\n\n\n\n\n[LISTING]"
+  },
+  {
+    "objectID": "pages/events.html#coq-club",
+    "href": "pages/events.html#coq-club",
+    "title": "Activities",
+    "section": "Coq Club",
+    "text": "Coq Club"
+  },
+  {
+    "objectID": "pages/blog.html",
+    "href": "pages/blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Blog post listing."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Programming Languages & Formal Methods",
+    "section": "",
+    "text": "We are a [WHAT] group on [TOPIC] at DCC-FCUP. Our aim is to [GOALS]. Our research interests include:\n\nSoftware verification and theorem proving\nProgram testing and analysis\nProgramming languages and type systems\nProgram logics and semantics\nAutomata Theory and Descriptional Complexity\n\nWe aim to provide an active and inclusive research environment that includes [ACTIVITIES]. If you are interested in learning more, come to one of our meetings, or get in touch."
+  },
+  {
+    "objectID": "index.html#recent-news",
+    "href": "index.html#recent-news",
+    "title": "Programming Languages & Formal Methods",
+    "section": "Recent news",
+    "text": "Recent news\n\n\n\n\n\nDate\n\n\nDescription\n\n\n\n\n\n\nSu August 2025\n\n\nThe club in open - every other Tuesday at 15h\n\n\n\n\nSu September 2024\n\n\nWebsite is now open to the public\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Programming Languages & Formal Methods",
+    "section": "Contact",
+    "text": "Contact\n\n\n\nRoom: [ROOM]\nMailing list: [MAILMAN]\n\n\n\nWe are located at the Department of Computer Science of the Faculty of Science in the University of Porto."
+  },
+  {
+    "objectID": "pages/education.html",
+    "href": "pages/education.html",
+    "title": "Education",
+    "section": "",
+    "text": "Listing of courses taught by members of the group."
+  },
+  {
+    "objectID": "pages/education.html#courses",
+    "href": "pages/education.html#courses",
+    "title": "Education",
+    "section": "",
+    "text": "Listing of courses taught by members of the group."
+  },
+  {
+    "objectID": "pages/education.html#master-dissertations",
+    "href": "pages/education.html#master-dissertations",
+    "title": "Education",
+    "section": "Master Dissertations",
+    "text": "Master Dissertations\nInformation for prospective students.\nListings of open and ongoing projects."
+  },
+  {
+    "objectID": "pages/education.html#bachelor-projects",
+    "href": "pages/education.html#bachelor-projects",
+    "title": "Education",
+    "section": "Bachelor Projects",
+    "text": "Bachelor Projects\nInformation for prospective students.\nListings of open and ongoing projects."
+  },
+  {
+    "objectID": "pages/news.html",
+    "href": "pages/news.html",
+    "title": "News",
+    "section": "",
+    "text": "Listing of group history."
+  },
+  {
+    "objectID": "pages/research.html",
+    "href": "pages/research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Extented introduction to the group. What are the research objectives of the group. To realize these objectives, our research activity is focused on the following topics:"
+  },
+  {
+    "objectID": "pages/research.html#projects",
+    "href": "pages/research.html#projects",
+    "title": "Research",
+    "section": "Projects",
+    "text": "Projects\nFunded projects the group is/was involved in."
+  },
+  {
+    "objectID": "pages/research.html#dissertations",
+    "href": "pages/research.html#dissertations",
+    "title": "Research",
+    "section": "Dissertations",
+    "text": "Dissertations\nDissertations completed by members of the group."
+  },
+  {
+    "objectID": "pages/research.html#publications",
+    "href": "pages/research.html#publications",
+    "title": "Research",
+    "section": "Publications",
+    "text": "Publications\nListing of publications from members of the group."
+  }
+]
