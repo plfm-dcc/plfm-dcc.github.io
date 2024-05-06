@@ -14,7 +14,7 @@ listing:
     filter-ui: false
     sort-ui: false
     table-striped: true
-    date-format: MMMM YYYY
+    date-format: dd MMMM YYYY
     max-items: 5
     fields: [date, description]      
 ---
@@ -29,6 +29,7 @@ Our research interests include:
 - Program testing and analysis
 - Programming languages and type systems
 - Program logics and semantics
+- Automata Theory and Descriptional Complexity
 
 We aim to provide an active and inclusive research environment that includes [ACTIVITIES].
 If you are interested in learning more, come to one of our [meetings](pages/events.qmd), or get in [touch](#contact).
