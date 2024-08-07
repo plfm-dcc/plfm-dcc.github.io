@@ -1,27 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://plfm-dcc.github.io/pages/resources.html</loc>
-    <lastmod>2024-05-06T11:13:21.659Z</lastmod>
-  </url>
-  <url>
     <loc>https://plfm-dcc.github.io/pages/people.html</loc>
-    <lastmod>2024-05-06T11:13:21.659Z</lastmod>
+    <lastmod>2024-08-07T13:50:35.446Z</lastmod>
   </url>
   <url>
-    <loc>https://plfm-dcc.github.io/pages/events.html</loc>
-    <lastmod>2024-05-06T11:13:21.659Z</lastmod>
-  </url>
-  <url>
-    <loc>https://plfm-dcc.github.io/pages/blog.html</loc>
-    <lastmod>2024-05-06T11:13:21.659Z</lastmod>
-  </url>
-  <url>
-    <loc>https://plfm-dcc.github.io/content/people/rodrigo.html</loc>
-    <lastmod>2024-05-06T11:13:21.659Z</lastmod>
-  </url>
-  <url>
-    <loc>https://plfm-dcc.github.io/content/news/copynews.html</loc>
+    <loc>https://plfm-dcc.github.io/content/events/weekly.html</loc>
     <lastmod>2024-05-06T11:13:21.659Z</lastmod>
   </url>
   <url>
@@ -29,27 +13,11 @@
     <lastmod>2024-05-06T11:13:21.659Z</lastmod>
   </url>
   <url>
-    <loc>https://plfm-dcc.github.io/content/events/weekly.html</loc>
-    <lastmod>2024-05-06T11:13:21.659Z</lastmod>
-  </url>
-  <url>
-    <loc>https://plfm-dcc.github.io/content/news/group-start.html</loc>
-    <lastmod>2024-05-06T11:13:21.659Z</lastmod>
-  </url>
-  <url>
     <loc>https://plfm-dcc.github.io/index.html</loc>
-    <lastmod>2024-05-06T11:13:21.659Z</lastmod>
-  </url>
-  <url>
-    <loc>https://plfm-dcc.github.io/pages/education.html</loc>
-    <lastmod>2024-05-06T11:13:21.659Z</lastmod>
+    <lastmod>2024-08-07T14:07:38.755Z</lastmod>
   </url>
   <url>
     <loc>https://plfm-dcc.github.io/pages/news.html</loc>
-    <lastmod>2024-05-06T11:13:21.659Z</lastmod>
-  </url>
-  <url>
-    <loc>https://plfm-dcc.github.io/pages/research.html</loc>
     <lastmod>2024-05-06T11:13:21.659Z</lastmod>
   </url>
 </urlset>

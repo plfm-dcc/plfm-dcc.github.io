@@ -1,15 +1,10 @@
 [
   {
     "listing": "/pages/people.html",
-    "items": [
-      "/content/people/rodrigo.html"
-    ]
+    "items": []
   },
   {
     "listing": "/index.html",
-    "items": [
-      "/content/news/copynews.html",
-      "/content/news/group-start.html"
-    ]
+    "items": []
   }
 ]

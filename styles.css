@@ -1,10 +1,62 @@
 /* css styles */
-@import url(https://fonts.googleapis.com/css2?family=Caveat%3Aital%2Cwght%400%2C400..700&amp;display=swap);
 
-/* .quarto-listing th {
+.quarto-listing th {
     display: none;
 }
 
+#about > h2:nth-child(1) {
+    font-size: 0;
+}
+
+#news > h2:nth-child(1) > a:nth-child(1){
+    color: inherit;
+    font-weight: inherit;
+    text-decoration: inherit;
+}
+
+#listing-news-listing {
+    padding-bottom: 0px;
+}
+
 #listing-news-listing > table > tbody > tr > td:nth-of-type(1) {
-    width: 12.5%;
+    /* width: 17%; */
+    text-align: right;
+}
+
+/* For the news listing on the main page */
+
+.quarto-listing-table {
+    display: flex;
+    border: none;
+}
+
+.list tr, .list td {
+    border: none;
+}
+
+.list > tr > td:nth-child(1) {
+    font-weight: bold;
+}
+
+/* h2 {
+    margin-top: 0px;
 } */
+
+.thumbnail-image {
+    border-radius: 50%;
+    max-width: 100%;
+    height:auto;
+}
+
+.gallery-body-title {
+    margin-bottom: 0px;
+}
+
+p.subtitle {
+    margin-top: 0px;
+    margin-bottom: .25rem;
+}
+
+.gallery-body-links > *:not(:last-child) {
+    padding-right: .25rem; 
+}
