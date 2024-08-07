@@ -19,9 +19,9 @@ website:
       - text: "Home"
         href: index.qmd
       - pages/people.qmd
+      - pages/activities.qmd
       - pages/research.qmd
       - pages/education.qmd
-      - pages/events.qmd
       - pages/resources.qmd
       - pages/blog.qmd
       # - pages/news.qmd

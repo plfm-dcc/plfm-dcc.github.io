@@ -1,0 +1,43 @@
+---
+title: "Activities"
+draft: true
+---
+
+## PLFM Discussion Group
+
+We meet weekly to discuss papers in the areas of programming languages and software verification.
+The goal is to encourage interactions and discussions between students, researchers, and faculty with interests in these areas.
+Our meetings are open to everybody interested in these topics.
+
+::: {.grid}
+::: {.g-col-6}
+### Logistics
+- We meet on [DAY], [TIME] at [PLACE].
+:::
+::: {.g-col-6}
+### Coming up
+[LISTING]
+:::
+::: 
+
+## Rocq Sessions
+
+Weekly tutorial series on the Rocq proof assistant.
+
+### Logistics
+- We meet on [DAY], [TIME] at [PLACE].
+
+## Category Theory Tutorial Series
+
+Weekly tutorial series on category theory.
+
+### Logistics
+- We meet on [DAY], [TIME] at [PLACE].
+
+## Advanced Haskell Tutorial Series
+
+Weekly tutorial series on advanced topics in functional programming
+
+### Logistics
+- We meet on [DAY], [TIME] at [PLACE].
+
