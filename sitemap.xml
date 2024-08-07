@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://plfm-dcc.github.io/pages/people.html</loc>
-    <lastmod>2024-08-07T13:50:35.446Z</lastmod>
-  </url>
-  <url>
-    <loc>https://plfm-dcc.github.io/content/events/weekly.html</loc>
-    <lastmod>2024-05-06T11:13:21.659Z</lastmod>
-  </url>
-  <url>
-    <loc>https://plfm-dcc.github.io/content/events/coqclub.html</loc>
+    <loc>https://plfm-dcc.github.io/pages/news.html</loc>
     <lastmod>2024-05-06T11:13:21.659Z</lastmod>
   </url>
   <url>
@@ -17,7 +9,7 @@
     <lastmod>2024-08-07T14:07:38.755Z</lastmod>
   </url>
   <url>
-    <loc>https://plfm-dcc.github.io/pages/news.html</loc>
-    <lastmod>2024-05-06T11:13:21.659Z</lastmod>
+    <loc>https://plfm-dcc.github.io/pages/people.html</loc>
+    <lastmod>2024-08-07T13:50:35.446Z</lastmod>
   </url>
 </urlset>
