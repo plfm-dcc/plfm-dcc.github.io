@@ -14,7 +14,7 @@ website:
     logo-alt: PLFM
     tools:
       - icon: github
-        href: https://github.com
+        href: https://github.com/plfm-dcc/plfm-dcc.github.io
     left:
       - text: "Home"
         href: index.qmd
