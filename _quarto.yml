@@ -2,33 +2,36 @@ project:
   title: "PLFM"
   type: website
 
+resources:
+  - "assets/*"
+
 website:
   title: "PLFM"
   search: false
   navbar:
     title: "PLFM @ DCC"
-    # logo: /assets/logo.png
+    background: "#004a7e"
     logo-alt: PLFM
-    background: primary
     tools:
       - icon: github
         href: https://github.com
     left:
+      - text: "Home"
+        href: index.qmd
       - pages/people.qmd
       - pages/research.qmd
       - pages/education.qmd
       - pages/events.qmd
       - pages/resources.qmd
       - pages/blog.qmd
-      - pages/news.qmd
+      # - pages/news.qmd
     pinned: true
-  # favicon: /assets/favicon.png
 
 format: 
   html:
-    theme:
-      light: cosmo
-      dark: [cosmo, theme-dark.scss]
+    theme: cosmo
     css: styles.css
-    toc: true
+    page-layout: full
+    toc: false
+    anchor-sections: false
     # embed-resources: true

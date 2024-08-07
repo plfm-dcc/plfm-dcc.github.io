@@ -1,46 +1,44 @@
 ---
 page-layout: full
 toc: false
-title: Programming Languages & Formal Methods
+title: "Programming Languages & Formal Methods @ DCC"
 about:
-  id: about-lab
-  template: trestles
-  image: assets/logo.svg
+  id: about-group
+  template: broadside
+  image: assets/temp-logo.jpg
+  image-title: plfm-logo
 listing:
   - id: news-listing
-    contents: content/news
+    contents: content/news.yml
     sort: "date desc"
     type: table
     filter-ui: false
     sort-ui: false
-    table-striped: true
-    date-format: dd MMMM YYYY
+    date-format: MMMM YYYY
     max-items: 5
-    fields: [date, description]      
+    fields: [date, description]
 ---
 
-::: {#about-lab}
-
-We are a [WHAT] group on [TOPIC] at [DCC-FCUP](https://www.dcc.fc.up.pt/).
-Our aim is to [GOALS].
-Our research interests include:
-
-- Software verification and theorem proving
-- Program testing and analysis
-- Programming languages and type systems
-- Program logics and semantics
-- Automata Theory and Descriptional Complexity
-
-We aim to provide an active and inclusive research environment that includes [ACTIVITIES].
-If you are interested in learning more, come to one of our [meetings](pages/events.qmd), or get in [touch](#contact).
-
+::: {#about-group}
 :::  
 
-## Recent news
+## About
+
+The {{< var group.name >}} group at [DCC-FCUP](https://www.dcc.fc.up.pt/) is composed of faculty and students who are interested in improving the reliability of computing systems.
+Research interests include:
+
+- Programming language design and implementation
+- Logic
+- Formal verification
+- Functional programming
+
+We aim to provide an active and inclusive research environment and plan to run frequent events to encourage discussion between students, researchers, and faculty interested in computing science and applications.
+<!-- If you are interested in learning more, come to one of our [meetings](pages/events.qmd), or get in [touch](#contact).-->
+
+## [News](pages/news.qmd)
+
 ::: {#news-listing}
 :::
-
-<!-- ## Main faculty -->
 
 ## Contact
 
@@ -48,17 +46,17 @@ If you are interested in learning more, come to one of our [meetings](pages/even
 
 ::: {.g-col-6}
 
-- Room: [ROOM]
+- Sign up for the [PLFM Mailing List]({{< var contact.mail >}})
 
-- Mailing list: [MAILMAN]
+- Say hello at room {{< var contact.room >}}
 
 :::
   
 ::: {.g-col-6}
 
-We are located at the Department of Computer Science of the Faculty of Science in the University of Porto.
+- Join the [Discord server]({{< var contact.discord >}})
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3004.178618931845!2d-8.643345823442532!3d41.152453610533875!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd2465748665b511%3A0x652241b7e04eb60a!2sFCUP%20Department%20of%20Computer%20Sciences!5e0!3m2!1sen!2spt!4v1710365007122!5m2!1sen!2spt" width="550" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+- Check out some resources on [Github]({{< var contact.github >}})
 
 :::
   

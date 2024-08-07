@@ -1,0 +1,37 @@
+
+```{=html}
+
+<% for (const item of items) { %>
+
+<h2><%- item.category %></h2>
+
+<div class="grid">
+  <% for (const person of item.people) { %>
+    <div class="gallery-entry g-col-4">
+      <div class="grid gallery-entry-grid">
+        <div class="gallery-thumbnail g-col-6">
+          <% if (person.thumbnail) { %> 
+            <img src="<%- person.thumbnail %>" class="thumbnail-image">
+          <% } else { %>
+            <img src="/assets/placeholder.jpg" class="thumbnail-image">
+          <% } %>
+        </div>
+        <div class="gallery-body g-col-6">
+          <h3 class="gallery-body-title"><%- person.name %></h3>
+          <p class="subtitle lead"><%- person.topics %></p>
+          <p class="gallery-body-links">
+            <% if (person.href) { %> 
+              <a class="gallery-body-link" href="<%- person.href %>";>[web]</a>
+            <% } %>
+            <% if (person.mail) { %> 
+              <a href="<%- person.mail %>";>[mail]</a>
+            <% } %>
+          </p>
+        </div>
+      </div>
+    </div>
+  <% } %>
+  </div>
+<% } %>
+
+```

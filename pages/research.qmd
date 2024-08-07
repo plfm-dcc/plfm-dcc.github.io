@@ -1,7 +1,6 @@
 ---
 title: "Research"
-page-layout: full
-toc: false
+draft: true
 ---
 
 Extented introduction to the group.

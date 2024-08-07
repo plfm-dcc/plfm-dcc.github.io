@@ -1,7 +1,6 @@
 ---
 title: "Activities"
-page-layout: full
-toc: false
+draft: true
 ---
 
 ## [PLFM Discussion Group](../content/events/weekly.qmd)

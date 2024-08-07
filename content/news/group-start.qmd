@@ -1,5 +1,0 @@
----
-title: "group-start"
-description: "Website is now open to the public"
-date: "09/01/2024"
----

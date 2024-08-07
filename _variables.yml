@@ -1,3 +1,9 @@
 group:
-  name: Programming Languages & Formal Methods
+  name: Programming Languages and Formal Methods
   short: PLFM
+
+contact:
+  room: FC6 1.96
+  mail: <mailto:todo@dcc.fc.up.pt>
+  discord: <https://discord.gg/PNxmQNf2Ec>
+  github: <https://github.com/plfm-dcc>

@@ -1,0 +1,36 @@
+# FORMAT
+# - category: 
+#   people: 
+#     - name:
+#       topics:
+#       href: 
+#       mail:
+#       thumbnail: pictures/
+
+- category: Faculty
+  people: 
+    - name: Mário Florido
+      topics: Type systems
+      mail: mailto:amsflorid@fc.up.pt
+    - name: João Barbosa
+      topics: Type systems
+      mail: mailto:joao.barbosa@fc.up.pt
+      
+
+- category: PhD Students
+  people: 
+    - name: Miguel Ramos
+      topics: Type systems
+      mail: mailto:jorge.ramos@fc.up.pt
+    - name: Pedro Cunha
+      topics: Type systems
+      mail: mailto:pedro.cunha@fc.up.pt
+    - name: Rodrigo Marques
+      topics: Type systems
+      href: https://marques-rodrigo.github.io
+      mail: mailto:rodrigo.marques@fc.up.pt
+
+- category: MSc Students
+  people: 
+    - name: Ana Jorge Almeida
+      topics: Type systems

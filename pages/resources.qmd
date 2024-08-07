@@ -1,5 +1,6 @@
 ---
 title: "Resources"
+draft: true
 ---
 
 Aggregation of important information, resources, links, ...

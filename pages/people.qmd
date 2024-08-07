@@ -1,27 +1,16 @@
 ---
 title: "People"
-page-layout: full
+navigation: empty
 listing:
-  - id: faculty-listing
-    contents: 
-      - "../content/people/**"
-    type: grid
-    image-height: 225px
-    grid-columns: 3
-    fields: [image, title, subtitle]
+  # - id: phd-listing
+  #   type: default
+  #   contents: "../content/people/*"
+  #   image-align: left
+  #   image-placeholder: ../assets/placeholder.jpg
+  - id: people
+    template: ../content/people.ejs
+    contents: ../content/people.yml
 ---
 
-## Faculty
-
-::: {#faculty-listing}
+::: {#people}
 :::
-
-<!-- ## In memoriam -->
-
-## Research Associates
-
-<!-- ## Visiting -->
-
-## Students
-
-## Alumni
