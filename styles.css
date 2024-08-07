@@ -1,5 +1,15 @@
 /* css styles */
 
+.about-entity {
+	background-size: contain;
+    max-height: 120px;
+    max-width: 100%;
+}
+
+div.quarto-about-broadside .about-main .about-entity {
+    background-size: contain;
+}
+
 .quarto-listing th {
     display: none;
 }
