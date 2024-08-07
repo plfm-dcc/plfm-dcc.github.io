@@ -48,6 +48,11 @@
     height:auto;
 }
 
+.gallery-entry-grid {
+    height: 200px;
+    align-items: center;
+}
+
 .gallery-body-title {
     margin-bottom: 0px;
 }

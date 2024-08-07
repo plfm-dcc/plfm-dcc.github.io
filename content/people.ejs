@@ -7,16 +7,16 @@
 
 <div class="grid">
   <% for (const person of item.people) { %>
-    <div class="gallery-entry g-col-4">
+    <div class="gallery-entry g-col-12 g-col-md-4">
       <div class="grid gallery-entry-grid">
-        <div class="gallery-thumbnail g-col-6">
+        <div class="gallery-thumbnail g-col-4 g-col-md-5">
           <% if (person.thumbnail) { %> 
             <img src="<%- person.thumbnail %>" class="thumbnail-image">
           <% } else { %>
             <img src="/assets/placeholder.jpg" class="thumbnail-image">
           <% } %>
         </div>
-        <div class="gallery-body g-col-6">
+        <div class="gallery-body g-col-8 g-col-md-7">
           <h3 class="gallery-body-title"><%- person.name %></h3>
           <p class="subtitle lead"><%- person.topics %></p>
           <p class="gallery-body-links">
