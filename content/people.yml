@@ -10,23 +10,28 @@
 - category: Faculty
   people: 
     - name: Mário Florido
+      topics: Lambda-calculus, Type systems, Substructural logic
       mail: mailto:amflorid@fc.up.pt
     - name: João Barbosa
+      topics: Program Verification, Rewriting, Logic programming
       mail: mailto:joao.barbosa@fc.up.pt
 
 - category: PhD Students
   people: 
     - name: Miguel Ramos
+      topics: Quantitative Types, Algebraic Effects, Call-by-push-value
       href: https://boilnkettle.github.io/
       mail: mailto:miguel@irif.fr
     - name: Pedro Cunha
+      topics: Homotopy Type Theory, Linear Logic
       mail: mailto:pedro.cunha@fc.up.pt
     - name: Rodrigo Marques
-      topics: Programming languages, Logic
+      topics: Programming languages, Substructural Logic
       href: https://marques-rodrigo.github.io
       mail: mailto:rodrigo.marques@fc.up.pt
 
 - category: MSc Students
   people: 
     - name: Ana Jorge Almeida
+      topics: Type Systems, Substructural Logic
     - name: Paulo Sousa

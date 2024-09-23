@@ -1,9 +1,8 @@
 ---
 title: "Activities"
-draft: true
 ---
 
-## PLFM Discussion Group
+## PLFM Reading Group
 
 We meet weekly to discuss papers in the areas of programming languages and software verification.
 The goal is to encourage interactions and discussions between students, researchers, and faculty with interests in these areas.
@@ -11,33 +10,54 @@ Our meetings are open to everybody interested in these topics.
 
 ::: {.grid}
 ::: {.g-col-6}
+
 ### Logistics
+
 - We meet on [DAY], [TIME] at [PLACE].
+- We meet every two weeks, from 14h00 to 15h00, at FC6 1.09
+
 :::
 ::: {.g-col-6}
+
 ### Coming up
-[LISTING]
+
+- October 10 - [Bidirectional Typing](https://arxiv.org/abs/1908.05839)
+- October 31 - [Introduction to the Calculus of Inductive Constructions](https://inria.hal.science/hal-01094195/document)
+
 :::
 ::: 
 
 ## Rocq Sessions
 
-Weekly tutorial series on the Rocq proof assistant.
+Weekly tutorial series on the Rocq proof assistant. The sessions follow the [Logical Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/index.html) book. The tutorial is aimed at [some audience].
+
+::: {.grid}
+::: {.g-col-6}
 
 ### Logistics
 - We meet on [DAY], [TIME] at [PLACE].
 
-## Category Theory Tutorial Series
+:::
+::: {.g-col-6}
+
+### Calendar
+
+[google calendar]
+
+:::
+::: 
+
+<!-- ## Category Theory Tutorial Series
 
 Weekly tutorial series on category theory.
 
 ### Logistics
-- We meet on [DAY], [TIME] at [PLACE].
+- We meet on [DAY], [TIME] at [PLACE]. -->
 
-## Advanced Haskell Tutorial Series
+<!-- ## Advanced Haskell Tutorial Series
 
 Weekly tutorial series on advanced topics in functional programming
 
 ### Logistics
-- We meet on [DAY], [TIME] at [PLACE].
+- We meet on [DAY], [TIME] at [PLACE]. -->
 

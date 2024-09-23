@@ -1,6 +1,0 @@
----
-title: "Blog"
-draft: true
----
-
-Blog post listing.
