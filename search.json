@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "pages/activities.html",
+    "href": "pages/activities.html",
+    "title": "Activities",
+    "section": "",
+    "text": "We meet weekly to discuss papers in the areas of programming languages and software verification. The goal is to encourage interactions and discussions between students, researchers, and faculty with interests in these areas. Our meetings are open to everybody interested in these topics.\n\n\n\n\nWe meet on [DAY], [TIME] at [PLACE].\nWe meet every two weeks, from 14h00 to 15h00, at FC6 1.09\n\n\n\n\n\nOctober 10 - Bidirectional Typing\nOctober 31 - Introduction to the Calculus of Inductive Constructions"
+  },
+  {
+    "objectID": "pages/activities.html#plfm-reading-group",
+    "href": "pages/activities.html#plfm-reading-group",
+    "title": "Activities",
+    "section": "",
+    "text": "We meet weekly to discuss papers in the areas of programming languages and software verification. The goal is to encourage interactions and discussions between students, researchers, and faculty with interests in these areas. Our meetings are open to everybody interested in these topics.\n\n\n\n\nWe meet on [DAY], [TIME] at [PLACE].\nWe meet every two weeks, from 14h00 to 15h00, at FC6 1.09\n\n\n\n\n\nOctober 10 - Bidirectional Typing\nOctober 31 - Introduction to the Calculus of Inductive Constructions"
+  },
+  {
+    "objectID": "pages/activities.html#rocq-sessions",
+    "href": "pages/activities.html#rocq-sessions",
+    "title": "Activities",
+    "section": "Rocq Sessions",
+    "text": "Rocq Sessions\nWeekly tutorial series on the Rocq proof assistant. The sessions follow the Logical Foundations book. The tutorial is aimed at [some audience].\n\n\nLogistics\n\nWe meet on [DAY], [TIME] at [PLACE].\n\n\n\nCalendar\n[google calendar]"
+  },
+  {
     "objectID": "pages/news.html",
     "href": "pages/news.html",
     "title": "News",
@@ -25,13 +46,13 @@
     "href": "index.html#contact",
     "title": "Programming Languages & Formal Methods @ DCC",
     "section": "Contact",
-    "text": "Contact\n\n\n\nSign up for the PLFM Mailing List\nSay hello at room FC6 1.96\n\n\n\n\nJoin the Discord server\nCheck out some resources on Github"
+    "text": "Contact\n\n\n\nSign up for the PLFM Mailing List\nSay hello at room FC6 1.09\n\n\n\n\nJoin the Discord server\nCheck out some resources on Github"
   },
   {
     "objectID": "pages/people.html",
     "href": "pages/people.html",
     "title": "People",
     "section": "",
-    "text": "Faculty\n\n\n  \n    \n      \n        \n          \n            \n          \n        \n        \n          Mário Florido\n          \n          \n            \n             \n              [mail]\n            \n          \n        \n      \n    \n  \n    \n      \n        \n          \n            \n          \n        \n        \n          João Barbosa\n          \n          \n            \n             \n              [mail]\n            \n          \n        \n      \n    \n  \n  \n\nPhD Students\n\n\n  \n    \n      \n        \n          \n            \n          \n        \n        \n          Miguel Ramos\n          \n          \n             \n              [web]\n            \n             \n              [mail]\n            \n          \n        \n      \n    \n  \n    \n      \n        \n          \n            \n          \n        \n        \n          Pedro Cunha\n          \n          \n            \n             \n              [mail]\n            \n          \n        \n      \n    \n  \n    \n      \n        \n          \n            \n          \n        \n        \n          Rodrigo Marques\n          Programming languages, Logic\n          \n             \n              [web]\n            \n             \n              [mail]\n            \n          \n        \n      \n    \n  \n  \n\nMSc Students\n\n\n  \n    \n      \n        \n          \n            \n          \n        \n        \n          Ana Jorge Almeida\n          \n          \n            \n            \n          \n        \n      \n    \n  \n    \n      \n        \n          \n            \n          \n        \n        \n          Paulo Sousa\n          \n          \n            \n            \n          \n        \n      \n    \n  \n  \n\n\nNo matching items"
+    "text": "Faculty\n\n\n  \n    \n      \n        \n          \n            \n          \n        \n        \n          Mário Florido\n          Lambda-calculus, Type systems, Substructural logic\n          \n            \n             \n              [mail]\n            \n          \n        \n      \n    \n  \n    \n      \n        \n          \n            \n          \n        \n        \n          João Barbosa\n          Program Verification, Rewriting, Logic programming\n          \n            \n             \n              [mail]\n            \n          \n        \n      \n    \n  \n  \n\nPhD Students\n\n\n  \n    \n      \n        \n          \n            \n          \n        \n        \n          Miguel Ramos\n          Quantitative Types, Algebraic Effects, Call-by-push-value\n          \n             \n              [web]\n            \n             \n              [mail]\n            \n          \n        \n      \n    \n  \n    \n      \n        \n          \n            \n          \n        \n        \n          Pedro Cunha\n          Homotopy Type Theory, Linear Logic\n          \n            \n             \n              [mail]\n            \n          \n        \n      \n    \n  \n    \n      \n        \n          \n            \n          \n        \n        \n          Rodrigo Marques\n          Programming languages, Substructural Logic\n          \n             \n              [web]\n            \n             \n              [mail]\n            \n          \n        \n      \n    \n  \n  \n\nMSc Students\n\n\n  \n    \n      \n        \n          \n            \n          \n        \n        \n          Ana Jorge Almeida\n          Type Systems, Substructural Logic\n          \n            \n            \n          \n        \n      \n    \n  \n    \n      \n        \n          \n            \n          \n        \n        \n          Paulo Sousa\n          \n          \n            \n            \n          \n        \n      \n    \n  \n  \n\n\nNo matching items"
   }
 ]
